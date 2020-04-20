@@ -1,0 +1,2 @@
+rootProject.name='LineTvVideo'
+include ':app'
